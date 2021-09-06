@@ -1,0 +1,14 @@
+{
+    "esCode":"es",
+    "enCode":"en",
+    "currentLanguage":"en",
+    "appTitle": "coKe93 project",
+    "mainMenuTitle": "Welcome! :]",
+    "mainMenuProjects": "My projects",
+    "mainMenuContact": "Contact",
+    "mainMenuSettings": "Settings",
+    "settingsTitle": "Settings",
+    "settingsLanguage": "Language",
+    "settingsLanguageSpanish": "Spanish",
+    "settingsLanguageEnglish": "English"
+}
